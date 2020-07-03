@@ -1,6 +1,6 @@
 ## Ubuntu PHP 7.2 
 
-## Installed packages
+## Installed Packages
 - php7.2 
 - php7.2-cli 
 - php7.2-curl 
