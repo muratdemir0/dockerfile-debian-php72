@@ -25,4 +25,6 @@ RUN apt-get update && \
       php7.2-zip \
       php7.2-soap \
       php7.2-opcache \
+      nginx \
+      vim \
       composer
